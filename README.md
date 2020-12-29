@@ -14,5 +14,7 @@ Code Files:
   testNet2.py
   testNet3.py
 
+Pickled-Trained models: trained_models directory
+
 Instruction: "How To Run Neural Network.pdf"
 
