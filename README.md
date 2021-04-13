@@ -6,14 +6,14 @@ This 2 Layers Neural Networks is built from scratch with numpy package. The mode
 
 The network is trained with Stochastic Gradient Descent.
 ## Preparation Steps after Git Clone the Repository:
-Step 1: Make sure that your Python version is 3.7 or above.
+**Step 1:** Make sure that your Python version is 3.7 or above.
 
-Step 2: Import necessary Python package beside the Python Standard Lib: (1) psutil library: https://pypi.org/project/psutil/ and (2) matplotlib library: https://matplotlib.org/3.1.1/faq/installing_faq.html
+**Step 2:** Import necessary Python package beside the Python Standard Lib: (1) psutil library: https://pypi.org/project/psutil/ and (2) matplotlib library: https://matplotlib.org/3.1.1/faq/installing_faq.html
 
-Step 3: Download the dataset that I downloaded from Yann LeCunn MNIST website
+**Step 3:** Download the dataset that I downloaded from Yann LeCunn MNIST website
 https://drive.google.com/drive/folders/1coms3ARgbH4-u5emWuJnPMZY0urCtk3M?usp=sharing then put the four files ito the mnistDB Directory
 ## How do I run this neural network?
-Step 4: Run main.py
+**Step 4:** Run main.py
 ```
 python ./main.py
 ```
@@ -22,7 +22,7 @@ Wait for the network to be trained 30 epochs. Wait for a couple seconds until yo
 Comment and uncomment code section in main.py to experience different neural network configurations.
 
 ## How do I test this neural network?
-Step 5: Run testNet1.py, testNet2.py, testNet3.py
+**Step 5:** Run testNet1.py, testNet2.py, testNet3.py
 ```
 python testNet1.py
 ```
