@@ -24,11 +24,15 @@ Comment and uncomment code section in main.py to experience different neural net
 ## How do I test this neural network?
 Step 5: Run testNet1.py, testNet2.py, testNet3.py
 ```
-“python testNet1.py
+python testNet1.py
 ```
 This command test the pretrained neural network model 1 with random input from the testing dataset. This pretrained model 1 is from "Running Net1 Real Time" code section in main.py
 
 Do similar commands for testNet2.py, testNet3.py.
+```
+python testNet2.py
+python testNet3.py
+```
 ## Report:
 Detailed Technical Instruction: "How To Run Neural Network.pdf"
 ## Honor Code @VT Warning:
