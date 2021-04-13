@@ -1,26 +1,33 @@
 # Neural-Network-from-Scratch-MNIST-Classification
 
 ***** VT - ECE 4424 Final Project *****
+## How does this work? 
+This 2 Layers Neural Networks is built from scratch with numpy package
+## How do I run this neural network?
 
-Description: 2 Layers Neural Networks from scratch with numpy package
+## What are in here?
 
-Honor Code Warning: You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
+Source Files:
 
-Code Files:
-
-  main.py
+  src/main.py
   
-  mnist_official_loader.py
+  src/mnist_official_loader.py
   
-  neuralNetwork.py
+  src/neuralNetwork.py
   
-  testNet1.py
-  
-  testNet2.py
-  
-  testNet3.py
+Test Files: 
 
-Pickled-Trained models: trained_models directory
+  test/testNet1.py
+  
+  test/testNet2.py
+  
+  test/testNet3.py
 
-Instruction: "How To Run Neural Network.pdf"
+Pickled-Trained models: 
+  
+  trained_models/
+
+Technical Instruction: "How To Run Neural Network.pdf"
+## Honor Code @VT Warning:
+You know what VT's Honor Code is, Hokies :). Don't do it. You have been warned.
 
