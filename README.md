@@ -5,7 +5,7 @@ The network's job is to correctly classify pixel image numbers 0 - 9.
 This 2 Layers Neural Networks is built from scratch with numpy package. The model is trained adn tested on Yann LeCun Dataset which can be found at http://yann.lecun.com/exdb/mnist/
 
 The network is trained with Stochastic Gradient Descent.
-## Preparation Steps after Git Clone the Repo:
+## Preparation Steps after Git Clone the Repository:
 Step 1: Make sure that your Python version is 3.7 or above.
 
 Step 2: Import necessary Python package beside the Python Standard Lib: (1) psutil library: https://pypi.org/project/psutil/ and (2) matplotlib library: https://matplotlib.org/3.1.1/faq/installing_faq.html
