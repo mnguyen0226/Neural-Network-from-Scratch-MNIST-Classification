@@ -9,11 +9,10 @@ The network is trained with Stochastic Gradient Descent.
 **Step 1:** Make sure that your Python version is 3.7 or above.
 
 **Step 2:** Import necessary Python package beside the Python Standard Lib: 
-- (1) psutil library: https://pypi.org/project/psutil/ 
-- (2) matplotlib library: https://matplotlib.org/3.1.1/faq/installing_faq.html
+- (1) [psutil](https://pypi.org/project/psutil/) library
+- (2) [matplotlib](https://matplotlib.org/3.1.1/faq/installing_faq.html) library 
 
-**Step 3:** Download the dataset that I downloaded from Yann LeCunn MNIST website
-https://drive.google.com/drive/folders/1coms3ARgbH4-u5emWuJnPMZY0urCtk3M?usp=sharing then put the four files ito the mnistDB Directory
+**Step 3:** Download the dataset that I [downloaded](https://drive.google.com/drive/folders/1coms3ARgbH4-u5emWuJnPMZY0urCtk3M?usp=sharing) from Yann LeCunn MNIST website then put the four files ito the mnistDB Directory
 ## How do I run this neural network?
 **Step 4:** Run main.py
 ```
